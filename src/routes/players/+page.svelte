@@ -17,6 +17,8 @@
             errorMessage = error.message;
         }
     }
+
+    
 </script>
 
 <button on:click={sendData}>Importer les données</button>
