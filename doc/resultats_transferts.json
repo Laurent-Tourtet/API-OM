@@ -1,0 +1,3616 @@
+{
+    "team_name": "Olympique de Marseille",
+    "transfers_by_season": {
+        "2000": [
+            {
+                "player_name": "Jovan Stankovic",
+                "transfer_type": "6,86 mio. €",
+                "transfer_fee": "Milieu gauche",
+                "date": "29",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Fernandão",
+                "transfer_type": "5,00 mio. €",
+                "transfer_fee": "Avant-centre",
+                "date": "22",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Abdoulaye Méïté",
+                "transfer_type": "600 K €",
+                "transfer_fee": "Défenseur central",
+                "date": "19",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "George Weah",
+                "transfer_type": "Tr. libre",
+                "transfer_fee": "Avant-centre",
+                "date": "34",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Marcelinho Paraíba",
+                "transfer_type": "Tr. libre",
+                "transfer_fee": "Milieu offensif",
+                "date": "25",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Jean-Christophe Marquet",
+                "transfer_type": "?",
+                "transfer_fee": "Arrière gauche",
+                "date": "26",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Cédric Mouret",
+                "transfer_type": "?",
+                "transfer_fee": "Milieu offensif",
+                "date": "22",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Klas Ingesson",
+                "transfer_type": "?",
+                "transfer_fee": "Milieu défensif",
+                "date": "31",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Benjamin Gavanon",
+                "transfer_type": "-",
+                "transfer_fee": "Milieu central",
+                "date": "19",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Daniel Montenegro",
+                "transfer_type": "Fin du prêt30 juin 2000",
+                "transfer_fee": "Milieu offensif",
+                "date": "21",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Lucas Bernardi",
+                "transfer_type": "6,10 mio. €",
+                "transfer_fee": "Milieu central",
+                "date": "23",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Bruno N'Gotty",
+                "transfer_type": "950 K €",
+                "transfer_fee": "Défenseur central",
+                "date": "29",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Dill",
+                "transfer_type": "300 K €",
+                "transfer_fee": "Ailier droit",
+                "date": "26",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Manuel dos Santos",
+                "transfer_type": "Tr. libre",
+                "transfer_fee": "Arrière gauche",
+                "date": "26",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Damien Grégorini",
+                "transfer_type": "Tr. libre",
+                "transfer_fee": "Gardien de but",
+                "date": "21",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Mickaël Marsiglia",
+                "transfer_type": "?",
+                "transfer_fee": "Milieu central",
+                "date": "24",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Zoumana Camara",
+                "transfer_type": "?",
+                "transfer_fee": "Défenseur central",
+                "date": "21",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Dill",
+                "transfer_type": "Prêt",
+                "transfer_fee": "Ailier droit",
+                "date": "26",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Eduardo Berizzo",
+                "transfer_type": "Fin du prêt31 déc. 2000",
+                "transfer_fee": "Défenseur central",
+                "date": "31",
+                "club_from": "Club d'origine non trouvé"
+            }
+        ],
+        "2001": [
+            {
+                "player_name": "Daniel Van Buyten",
+                "transfer_type": "11,50 mio. €",
+                "transfer_fee": "Défenseur central",
+                "date": "23",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Brahim Hemdani",
+                "transfer_type": "4,00 mio. €",
+                "transfer_fee": "Milieu défensif",
+                "date": "23",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Frank Leboeuf",
+                "transfer_type": "1,80 mio. €",
+                "transfer_fee": "Défenseur central",
+                "date": "33",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Philippe Brunel",
+                "transfer_type": "Tr. libre",
+                "transfer_fee": "Milieu gauche",
+                "date": "28",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Claude Gentile",
+                "transfer_type": "Tr. libre",
+                "transfer_fee": "Gardien de but",
+                "date": "21",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Cyril Chapuis",
+                "transfer_type": "Tr. libre",
+                "transfer_fee": "Avant-centre",
+                "date": "22",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Alen Skoro",
+                "transfer_type": "?",
+                "transfer_fee": "Avant-centre",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Joseph Yobo",
+                "transfer_type": "?",
+                "transfer_fee": "Défenseur central",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Franck Jurietti",
+                "transfer_type": "Prêt",
+                "transfer_fee": "Arrière gauche",
+                "date": "26",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Jurgen Cavens",
+                "transfer_type": "Prêt",
+                "transfer_fee": "Avant-centre",
+                "date": "23",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Dimas",
+                "transfer_type": "Prêt",
+                "transfer_fee": "Arrière gauche",
+                "date": "32",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Alfonso",
+                "transfer_type": "Prêt",
+                "transfer_fee": "Avant-centre",
+                "date": "29",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Salomon Olembé",
+                "transfer_type": "Prêt",
+                "transfer_fee": "Milieu gauche",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Vincent Gastine",
+                "transfer_type": "-",
+                "transfer_fee": "Milieu défensif",
+                "date": "19",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Laurent Merlin",
+                "transfer_type": "-",
+                "transfer_fee": "Milieu offensif",
+                "date": "16",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Pierre Issa",
+                "transfer_type": "Fin du prêt1 juin 2001",
+                "transfer_fee": "Défenseur central",
+                "date": "25",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Pablo Calandria",
+                "transfer_type": "Fin du prêt30 juin 2001",
+                "transfer_fee": "Avant-centre",
+                "date": "19",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Daniel Montenegro",
+                "transfer_type": "Fin du prêt24 janv. 2002",
+                "transfer_fee": "Milieu offensif",
+                "date": "22",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Richard Martini",
+                "transfer_type": "Fin du prêt30 juin 2001",
+                "transfer_fee": "Défenseur central",
+                "date": "22",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Delfim",
+                "transfer_type": "5,00 mio. €",
+                "transfer_fee": "Milieu défensif",
+                "date": "24",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Pascal Nouma",
+                "transfer_type": "2,50 mio. €",
+                "transfer_fee": "Avant-centre",
+                "date": "29",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Lamine Sakho",
+                "transfer_type": "1,50 mio. €",
+                "transfer_fee": "Ailier gauche",
+                "date": "24",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Vedran Runje",
+                "transfer_type": "Tr. libre",
+                "transfer_fee": "Gardien de but",
+                "date": "25",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Piotr Swierczewski",
+                "transfer_type": "Tr. libre",
+                "transfer_fee": "Milieu défensif",
+                "date": "29",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Eduardo Tuzzio",
+                "transfer_type": "?",
+                "transfer_fee": "Défenseur central",
+                "date": "27",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Cyril Rool",
+                "transfer_type": "?",
+                "transfer_fee": "Arrière gauche",
+                "date": "26",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Ibrahim Bá",
+                "transfer_type": "Prêt",
+                "transfer_fee": "Milieu droit",
+                "date": "27",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "André Luiz",
+                "transfer_type": "Prêt",
+                "transfer_fee": "Milieu offensif",
+                "date": "26",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Alberto Rivera",
+                "transfer_type": "Prêt",
+                "transfer_fee": "Milieu central",
+                "date": "23",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Stefano Torrisi",
+                "transfer_type": "Prêt",
+                "transfer_fee": "Défenseur central",
+                "date": "30",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Fabrice Fernandes",
+                "transfer_type": "Prêt",
+                "transfer_fee": "Ailier gauche",
+                "date": "21",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Wilfried Dalmat",
+                "transfer_type": "Prêt",
+                "transfer_fee": "Ailier droit",
+                "date": "19",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Cédric Carrasso",
+                "transfer_type": "-",
+                "transfer_fee": "Gardien de but",
+                "date": "19",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Cyrille Pouget",
+                "transfer_type": "Fin du prêt30 juin 2001",
+                "transfer_fee": "Avant-centre",
+                "date": "28",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Loris Reina",
+                "transfer_type": "Fin du prêt30 juin 2001",
+                "transfer_fee": "Arrière gauche",
+                "date": "21",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Klas Ingesson",
+                "transfer_type": "Fin du prêt30 juin 2001",
+                "transfer_fee": "Milieu défensif",
+                "date": "32",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Daniel Montenegro",
+                "transfer_type": "Fin du prêt30 juin 2001",
+                "transfer_fee": "Milieu offensif",
+                "date": "22",
+                "club_from": "Club d'origine non trouvé"
+            }
+        ],
+        "2002": [
+            {
+                "player_name": "Fabio Celestini",
+                "transfer_type": "3,00 mio. €",
+                "transfer_fee": "Milieu défensif",
+                "date": "26",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Salomon Olembé",
+                "transfer_type": "2,00 mio. €",
+                "transfer_fee": "Milieu gauche",
+                "date": "21",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Johnny Ecker",
+                "transfer_type": "Tr. libre",
+                "transfer_fee": "Défenseur central",
+                "date": "29",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Fabien Laurenti",
+                "transfer_type": "-",
+                "transfer_fee": "Arrière droit",
+                "date": "19",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Therry Racon",
+                "transfer_type": "-",
+                "transfer_fee": "Milieu défensif",
+                "date": "18",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Philippe Brunel",
+                "transfer_type": "Fin du prêt30 juin 2002",
+                "transfer_fee": "Milieu gauche",
+                "date": "29",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Djamel Belmadi",
+                "transfer_type": "Fin du prêt1 mai 2003",
+                "transfer_fee": "Milieu droit",
+                "date": "27",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Benjamin Gavanon",
+                "transfer_type": "Fin du prêt31 mai 2003",
+                "transfer_fee": "Milieu central",
+                "date": "22",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Alen Skoro",
+                "transfer_type": "Fin du prêt1 août 2002",
+                "transfer_fee": "Avant-centre",
+                "date": "21",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Florian Maurice",
+                "transfer_type": "Fin du prêt30 juin 2002",
+                "transfer_fee": "Avant-centre",
+                "date": "28",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Cédric Carrasso",
+                "transfer_type": "Fin du prêt30 juin 2002",
+                "transfer_fee": "Gardien de but",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Dmitriy Sychev",
+                "transfer_type": "3,00 mio. €",
+                "transfer_fee": "Avant-centre",
+                "date": "19",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Pascal Johansen",
+                "transfer_type": "Tr. libre",
+                "transfer_fee": "Milieu central",
+                "date": "23",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Jérôme Perez",
+                "transfer_type": "-",
+                "transfer_fee": "Arrière droit",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Jérémy Gavanon",
+                "transfer_type": "-",
+                "transfer_fee": "Gardien de but",
+                "date": "18",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Cyrille Pouget",
+                "transfer_type": "Fin du prêt30 juin 2002",
+                "transfer_fee": "Avant-centre",
+                "date": "29",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Sébastien Pérez",
+                "transfer_type": "Fin du prêt30 juin 2002",
+                "transfer_fee": "Arrière droit",
+                "date": "28",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Jérôme Leroy",
+                "transfer_type": "Fin du prêt30 juin 2002",
+                "transfer_fee": "Milieu offensif",
+                "date": "27",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Loris Reina",
+                "transfer_type": "Fin du prêt30 juin 2002",
+                "transfer_fee": "Arrière gauche",
+                "date": "22",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Pablo Calandria",
+                "transfer_type": "Fin du prêt30 juin 2002",
+                "transfer_fee": "Avant-centre",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Daniel Montenegro",
+                "transfer_type": "Fin du prêt30 juin 2002",
+                "transfer_fee": "Milieu offensif",
+                "date": "23",
+                "club_from": "Club d'origine non trouvé"
+            }
+        ],
+        "2003": [
+            {
+                "player_name": "Didier Drogba",
+                "transfer_type": "6,00 mio. €",
+                "transfer_fee": "Avant-centre",
+                "date": "25",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Stepan Vachousek",
+                "transfer_type": "2,50 mio. €",
+                "transfer_fee": "Milieu gauche",
+                "date": "23",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Rudi Skacel",
+                "transfer_type": "1,60 mio. €",
+                "transfer_fee": "Milieu gauche",
+                "date": "24",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Sylvain N'Diaye",
+                "transfer_type": "Tr. libre",
+                "transfer_fee": "Milieu défensif",
+                "date": "27",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Fabien Barthez",
+                "transfer_type": "Prêt",
+                "transfer_fee": "Gardien de but",
+                "date": "32",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Koke",
+                "transfer_type": "Prêt",
+                "transfer_fee": "Avant-centre",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Demetrius Ferreira",
+                "transfer_type": "Prêt",
+                "transfer_fee": "Arrière droit",
+                "date": "29",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Alain Cantareil",
+                "transfer_type": "-",
+                "transfer_fee": "Arrière gauche",
+                "date": "19",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Rahmane Barry",
+                "transfer_type": "-",
+                "transfer_fee": "Deuxième attaquant",
+                "date": "16",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Lamine Sakho",
+                "transfer_type": "Fin du prêt31 mai 2004",
+                "transfer_fee": "Ailier gauche",
+                "date": "26",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Vincent Gastine",
+                "transfer_type": "Fin du prêt30 juin 2003",
+                "transfer_fee": "Milieu défensif",
+                "date": "21",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Cyril Chapuis",
+                "transfer_type": "Fin du prêt6 janv. 2004",
+                "transfer_fee": "Avant-centre",
+                "date": "24",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Salomon Olembé",
+                "transfer_type": "Fin du prêt31 mai 2004",
+                "transfer_fee": "Milieu gauche",
+                "date": "23",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Mido",
+                "transfer_type": "6,00 mio. €",
+                "transfer_fee": "Avant-centre",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Laurent Batlles",
+                "transfer_type": "1,65 mio. €",
+                "transfer_fee": "Milieu central",
+                "date": "28",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Habib Bèye",
+                "transfer_type": "1,10 mio. €",
+                "transfer_fee": "Arrière droit",
+                "date": "25",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Philippe Christanval",
+                "transfer_type": "Tr. libre",
+                "transfer_fee": "Défenseur central",
+                "date": "24",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Steve Marlet",
+                "transfer_type": "Prêt",
+                "transfer_fee": "Avant-centre",
+                "date": "29",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "David Sommeil",
+                "transfer_type": "Prêt",
+                "transfer_fee": "Défenseur central",
+                "date": "29",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Camel Meriem",
+                "transfer_type": "Prêt",
+                "transfer_fee": "Milieu offensif",
+                "date": "23",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Mathieu Flamini",
+                "transfer_type": "-",
+                "transfer_fee": "Milieu défensif",
+                "date": "19",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Eduardo Tuzzio",
+                "transfer_type": "Fin du prêt31 déc. 2003",
+                "transfer_fee": "Défenseur central",
+                "date": "29",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Mickaël Marsiglia",
+                "transfer_type": "Fin du prêt30 juin 2002",
+                "transfer_fee": "Milieu central",
+                "date": "26",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Piotr Swierczewski",
+                "transfer_type": "Fin du prêt30 juin 2003",
+                "transfer_fee": "Milieu défensif",
+                "date": "31",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Damien Grégorini",
+                "transfer_type": "Fin du prêt30 juin 2003",
+                "transfer_fee": "Gardien de but",
+                "date": "24",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Joseph Yobo",
+                "transfer_type": "Fin du prêt30 juin 2003",
+                "transfer_fee": "Défenseur central",
+                "date": "22",
+                "club_from": "Club d'origine non trouvé"
+            }
+        ],
+        "2004": [
+            {
+                "player_name": "Péguy Luyindula",
+                "transfer_type": "10,00 mio. €",
+                "transfer_fee": "Avant-centre",
+                "date": "25",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Benoît Pedretti",
+                "transfer_type": "5,00 mio. €",
+                "transfer_fee": "Milieu défensif",
+                "date": "23",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Habib Bamogo",
+                "transfer_type": "3,00 mio. €",
+                "transfer_fee": "Deuxième attaquant",
+                "date": "22",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Leyti N'Diaye",
+                "transfer_type": "1,00 mio. €",
+                "transfer_fee": "Défenseur central",
+                "date": "18",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Taye Taiwo",
+                "transfer_type": "180 K €",
+                "transfer_fee": "Arrière gauche",
+                "date": "19",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Bixente Lizarazu",
+                "transfer_type": "Tr. libre",
+                "transfer_fee": "Arrière gauche",
+                "date": "34",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Frédéric Déhu",
+                "transfer_type": "Tr. libre",
+                "transfer_fee": "Défenseur central",
+                "date": "31",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Bruno Cheyrou",
+                "transfer_type": "Prêt",
+                "transfer_fee": "Milieu central",
+                "date": "26",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Pegguy Arphexad",
+                "transfer_type": "-",
+                "transfer_fee": "Gardien de but",
+                "date": "31",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Rudi Skacel",
+                "transfer_type": "Fin du prêt1 mai 2005",
+                "transfer_fee": "Milieu gauche",
+                "date": "25",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Fernandão",
+                "transfer_type": "Fin du prêt30 juin 2004",
+                "transfer_fee": "Avant-centre",
+                "date": "26",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Daniel Van Buyten",
+                "transfer_type": "Fin du prêt30 juin 2004",
+                "transfer_fee": "Défenseur central",
+                "date": "26",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Eduardo Costa",
+                "transfer_type": "6,00 mio. €",
+                "transfer_fee": "Milieu défensif",
+                "date": "21",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Fabrice Fiorèse",
+                "transfer_type": "3,00 mio. €",
+                "transfer_fee": "Ailier droit",
+                "date": "29",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Léo Matos",
+                "transfer_type": "1,40 mio. €",
+                "transfer_fee": "Arrière droit",
+                "date": "18",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Koke",
+                "transfer_type": "700 K €",
+                "transfer_fee": "Avant-centre",
+                "date": "21",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Koji Nakata",
+                "transfer_type": "Tr. libre",
+                "transfer_fee": "Milieu défensif",
+                "date": "25",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Fabien Barthez",
+                "transfer_type": "Tr. libre",
+                "transfer_fee": "Gardien de but",
+                "date": "33",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Demetrius Ferreira",
+                "transfer_type": "Tr. libre",
+                "transfer_fee": "Arrière droit",
+                "date": "30",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Ahmed Yahiaoui",
+                "transfer_type": "-",
+                "transfer_fee": "Milieu central",
+                "date": "17",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Samir Nasri",
+                "transfer_type": "-",
+                "transfer_fee": "Milieu offensif",
+                "date": "17",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Vedran Runje",
+                "transfer_type": "Fin du prêt30 juin 2004",
+                "transfer_fee": "Gardien de but",
+                "date": "28",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Fabien Laurenti",
+                "transfer_type": "Fin du prêt30 juin 2004",
+                "transfer_fee": "Arrière droit",
+                "date": "21",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Cyril Chapuis",
+                "transfer_type": "Fin du prêt30 juin 2004",
+                "transfer_fee": "Avant-centre",
+                "date": "25",
+                "club_from": "Club d'origine non trouvé"
+            }
+        ],
+        "2005": [
+            {
+                "player_name": "Mamadou Niang",
+                "transfer_type": "7,00 mio. €",
+                "transfer_fee": "Avant-centre",
+                "date": "25",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Bostjan Cesar",
+                "transfer_type": "2,50 mio. €",
+                "transfer_fee": "Défenseur central",
+                "date": "22",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Christian Giménez",
+                "transfer_type": "700 K €",
+                "transfer_fee": "Avant-centre",
+                "date": "30",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Franck Ribéry",
+                "transfer_type": "Tr. libre",
+                "transfer_fee": "Ailier gauche",
+                "date": "22",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Sabri Lamouchi",
+                "transfer_type": "Tr. libre",
+                "transfer_fee": "Milieu central",
+                "date": "33",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Toifilou Maoulida",
+                "transfer_type": "Prêt",
+                "transfer_fee": "Avant-centre",
+                "date": "26",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Yannick Quesnel",
+                "transfer_type": "Prêt",
+                "transfer_fee": "Gardien de but",
+                "date": "31",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Jérôme Bonnissel",
+                "transfer_type": "-",
+                "transfer_fee": "Arrière gauche",
+                "date": "32",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Mohamed Dennoun",
+                "transfer_type": "-",
+                "transfer_fee": "Milieu offensif",
+                "date": "19",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Alexis Pradie",
+                "transfer_type": "-",
+                "transfer_fee": "Défenseur central",
+                "date": "18",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Fabrice Begeorgi",
+                "transfer_type": "-",
+                "transfer_fee": "Arrière gauche",
+                "date": "18",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Stepan Vachousek",
+                "transfer_type": "Fin du prêt30 juin 2005",
+                "transfer_fee": "Milieu gauche",
+                "date": "25",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Pascal Johansen",
+                "transfer_type": "Fin du prêt30 juin 2005",
+                "transfer_fee": "Milieu central",
+                "date": "26",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Cyril Chapuis",
+                "transfer_type": "Fin du prêt30 juin 2005",
+                "transfer_fee": "Avant-centre",
+                "date": "26",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Cédric Carrasso",
+                "transfer_type": "Fin du prêt30 juin 2005",
+                "transfer_fee": "Gardien de but",
+                "date": "23",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Therry Racon",
+                "transfer_type": "Fin du prêt30 juin 2005",
+                "transfer_fee": "Milieu défensif",
+                "date": "21",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Lorik Cana",
+                "transfer_type": "4,00 mio. €",
+                "transfer_fee": "Milieu défensif",
+                "date": "22",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Mickaël Pagis",
+                "transfer_type": "1,00 mio. €",
+                "transfer_fee": "Deuxième attaquant",
+                "date": "32",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Renato Civelli",
+                "transfer_type": "Montant du prêt:130 K €",
+                "transfer_fee": "Défenseur central",
+                "date": "22",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Wilson Oruma",
+                "transfer_type": "Tr. libre",
+                "transfer_fee": "Milieu offensif",
+                "date": "28",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Andrés Mendoza",
+                "transfer_type": "Prêt",
+                "transfer_fee": "Avant-centre",
+                "date": "27",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "André Luis",
+                "transfer_type": "Prêt",
+                "transfer_fee": "Défenseur central",
+                "date": "25",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Fabien Barthez",
+                "transfer_type": "-",
+                "transfer_fee": "Gardien de but",
+                "date": "34",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Anthony Flachi",
+                "transfer_type": "-",
+                "transfer_fee": "Milieu central",
+                "date": "19",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Khalifa Ba",
+                "transfer_type": "-",
+                "transfer_fee": "Défenseur central",
+                "date": "19",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Thomas Deruda",
+                "transfer_type": "-",
+                "transfer_fee": "Milieu central",
+                "date": "18",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Salomon Olembé",
+                "transfer_type": "Fin du prêt31 mai 2006",
+                "transfer_fee": "Milieu gauche",
+                "date": "25",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Rudi Skacel",
+                "transfer_type": "Fin du prêt1 mai 2006",
+                "transfer_fee": "Milieu gauche",
+                "date": "26",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Fabio Celestini",
+                "transfer_type": "Fin du prêt30 juin 2005",
+                "transfer_fee": "Milieu défensif",
+                "date": "29",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Delfim",
+                "transfer_type": "Fin du prêt30 juin 2005",
+                "transfer_fee": "Milieu défensif",
+                "date": "28",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Laurent Merlin",
+                "transfer_type": "Fin du prêt30 juin 2005",
+                "transfer_fee": "Milieu offensif",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Alain Cantareil",
+                "transfer_type": "Fin du prêt30 juin 2005",
+                "transfer_fee": "Arrière gauche",
+                "date": "21",
+                "club_from": "Club d'origine non trouvé"
+            }
+        ],
+        "2006": [
+            {
+                "player_name": "Ronald Zubar",
+                "transfer_type": "3,50 mio. €",
+                "transfer_fee": "Défenseur central",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Renato Civelli",
+                "transfer_type": "1,75 mio. €",
+                "transfer_fee": "Défenseur central",
+                "date": "22",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Toifilou Maoulida",
+                "transfer_type": "1,00 mio. €",
+                "transfer_fee": "Avant-centre",
+                "date": "27",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Sébastien Maté",
+                "transfer_type": "375 K €",
+                "transfer_fee": "Gardien de but",
+                "date": "35",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Sébastien Hamel",
+                "transfer_type": "Tr. libre",
+                "transfer_fee": "Gardien de but",
+                "date": "30",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Hassoun Camara",
+                "transfer_type": "Tr. libre",
+                "transfer_fee": "Arrière droit",
+                "date": "22",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Garry Bocaly",
+                "transfer_type": "-",
+                "transfer_fee": "Arrière droit",
+                "date": "18",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Péguy Luyindula",
+                "transfer_type": "Fin du prêt30 juin 2006",
+                "transfer_fee": "Avant-centre",
+                "date": "27",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Laurent Batlles",
+                "transfer_type": "Fin du prêt30 juin 2006",
+                "transfer_fee": "Milieu central",
+                "date": "30",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Koke",
+                "transfer_type": "Fin du prêt30 juin 2006",
+                "transfer_fee": "Avant-centre",
+                "date": "23",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Léo Matos",
+                "transfer_type": "Fin du prêt30 juin 2006",
+                "transfer_fee": "Arrière droit",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Leyti N'Diaye",
+                "transfer_type": "Fin du prêt30 juin 2006",
+                "transfer_fee": "Défenseur central",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Modeste M'Bami",
+                "transfer_type": "2,50 mio. €",
+                "transfer_fee": "Milieu défensif",
+                "date": "23",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Djibril Cissé",
+                "transfer_type": "Montant du prêt:1,50 mio. €",
+                "transfer_fee": "Avant-centre",
+                "date": "24",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Mathieu Valbuena",
+                "transfer_type": "800 K €",
+                "transfer_fee": "Milieu offensif",
+                "date": "21",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Julien Rodriguez",
+                "transfer_type": "Tr. libre",
+                "transfer_fee": "Défenseur central",
+                "date": "28",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Mehdi Sennaoui",
+                "transfer_type": "Tr. libre",
+                "transfer_fee": "Gardien de but",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Salim Arrache",
+                "transfer_type": "-",
+                "transfer_fee": "Ailier gauche",
+                "date": "24",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Medhi Benatia",
+                "transfer_type": "-",
+                "transfer_fee": "Défenseur central",
+                "date": "19",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Péguy Luyindula",
+                "transfer_type": "Fin du prêt31 déc. 2006",
+                "transfer_fee": "Avant-centre",
+                "date": "27",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Habib Bamogo",
+                "transfer_type": "Fin du prêt30 juin 2006",
+                "transfer_fee": "Deuxième attaquant",
+                "date": "24",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Fabrice Fiorèse",
+                "transfer_type": "Fin du prêt30 juin 2006",
+                "transfer_fee": "Ailier droit",
+                "date": "30",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Jérémy Gavanon",
+                "transfer_type": "Fin du prêt30 juin 2006",
+                "transfer_fee": "Gardien de but",
+                "date": "22",
+                "club_from": "Club d'origine non trouvé"
+            }
+        ],
+        "2007": [
+            {
+                "player_name": "Djibril Cissé",
+                "transfer_type": "9,00 mio. €",
+                "transfer_fee": "Avant-centre",
+                "date": "25",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Gaël Givet",
+                "transfer_type": "5,00 mio. €",
+                "transfer_fee": "Défenseur central",
+                "date": "25",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Vincent Gragnic",
+                "transfer_type": "800 K €",
+                "transfer_fee": "Milieu offensif",
+                "date": "24",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Laurent Bonnart",
+                "transfer_type": "500 K €",
+                "transfer_fee": "Arrière droit",
+                "date": "27",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Steve Mandanda",
+                "transfer_type": "Montant du prêt:400 K €",
+                "transfer_fee": "Gardien de but",
+                "date": "22",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Boudewijn Zenden",
+                "transfer_type": "Tr. libre",
+                "transfer_fee": "Ailier gauche",
+                "date": "30",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Milos Krstic",
+                "transfer_type": "Tr. libre",
+                "transfer_fee": "Milieu offensif",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Matt Moussilou",
+                "transfer_type": "Prêt",
+                "transfer_fee": "Avant-centre",
+                "date": "25",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Pape M'Bow",
+                "transfer_type": "-",
+                "transfer_fee": "Défenseur central",
+                "date": "19",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Christian Giménez",
+                "transfer_type": "Fin du prêt30 juin 2007",
+                "transfer_fee": "Avant-centre",
+                "date": "32",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Bostjan Cesar",
+                "transfer_type": "Fin du prêt1 mai 2008",
+                "transfer_fee": "Défenseur central",
+                "date": "25",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Thomas Deruda",
+                "transfer_type": "Fin du prêt30 juin 2007",
+                "transfer_fee": "Milieu central",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Rahmane Barry",
+                "transfer_type": "Fin du prêt30 juin 2007",
+                "transfer_fee": "Deuxième attaquant",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Fabrice Begeorgi",
+                "transfer_type": "Fin du prêt30 juin 2007",
+                "transfer_fee": "Arrière gauche",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Karim Ziani",
+                "transfer_type": "8,00 mio. €",
+                "transfer_fee": "Milieu offensif",
+                "date": "24",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Benoît Cheyrou",
+                "transfer_type": "5,00 mio. €",
+                "transfer_fee": "Milieu défensif",
+                "date": "26",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Charles Kaboré",
+                "transfer_type": "600 K €",
+                "transfer_fee": "Milieu défensif",
+                "date": "19",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Elliot Grandin",
+                "transfer_type": "400 K €",
+                "transfer_fee": "Milieu offensif",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Juan Krupoviesa",
+                "transfer_type": "Montant du prêt:300 K €",
+                "transfer_fee": "Arrière gauche",
+                "date": "28",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Jacques Faty",
+                "transfer_type": "Tr. libre",
+                "transfer_fee": "Défenseur central",
+                "date": "23",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Kanga Akalé",
+                "transfer_type": "Prêt",
+                "transfer_fee": "Ailier gauche",
+                "date": "26",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Jean-Philippe Sabo",
+                "transfer_type": "-",
+                "transfer_fee": "Arrière gauche",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "André Ayew",
+                "transfer_type": "-",
+                "transfer_fee": "Ailier gauche",
+                "date": "17",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Habib Bamogo",
+                "transfer_type": "Fin du prêt30 juin 2007",
+                "transfer_fee": "Deuxième attaquant",
+                "date": "25",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Fabrice Fiorèse",
+                "transfer_type": "Fin du prêt30 juin 2007",
+                "transfer_fee": "Ailier droit",
+                "date": "31",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Leyti N'Diaye",
+                "transfer_type": "Fin du prêt30 juin 2007",
+                "transfer_fee": "Défenseur central",
+                "date": "21",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Thomas Deruda",
+                "transfer_type": "Fin du prêt15 janv. 2008",
+                "transfer_fee": "Milieu central",
+                "date": "21",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Medhi Benatia",
+                "transfer_type": "Fin du prêt30 juin 2007",
+                "transfer_fee": "Défenseur central",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            }
+        ],
+        "2008": [
+            {
+                "player_name": "Hatem Ben Arfa",
+                "transfer_type": "12,00 mio. €",
+                "transfer_fee": "Milieu offensif",
+                "date": "21",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Brandão",
+                "transfer_type": "6,00 mio. €",
+                "transfer_fee": "Avant-centre",
+                "date": "28",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Steve Mandanda",
+                "transfer_type": "2,50 mio. €",
+                "transfer_fee": "Gardien de but",
+                "date": "23",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Elamine Erbate",
+                "transfer_type": "500 K €",
+                "transfer_fee": "Défenseur central",
+                "date": "27",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Rudy Riou",
+                "transfer_type": "200 K €",
+                "transfer_fee": "Gardien de but",
+                "date": "28",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Sylvain Wiltord",
+                "transfer_type": "Tr. libre",
+                "transfer_fee": "Deuxième attaquant",
+                "date": "34",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Guy Gnabouyou",
+                "transfer_type": "-",
+                "transfer_fee": "Avant-centre",
+                "date": "18",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Habib Bamogo",
+                "transfer_type": "Fin du prêt30 juin 2008",
+                "transfer_fee": "Deuxième attaquant",
+                "date": "26",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Vincent Gragnic",
+                "transfer_type": "Fin du prêt30 juin 2008",
+                "transfer_fee": "Milieu offensif",
+                "date": "25",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Mohamed Dennoun",
+                "transfer_type": "Fin du prêt30 juin 2008",
+                "transfer_fee": "Milieu offensif",
+                "date": "22",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Fabrice Begeorgi",
+                "transfer_type": "Fin du prêt30 juin 2008",
+                "transfer_fee": "Arrière gauche",
+                "date": "21",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Thomas Deruda",
+                "transfer_type": "Fin du prêt30 juin 2008",
+                "transfer_fee": "Milieu central",
+                "date": "21",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Bakari Koné",
+                "transfer_type": "9,00 mio. €",
+                "transfer_fee": "Ailier droit",
+                "date": "26",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Hilton",
+                "transfer_type": "5,00 mio. €",
+                "transfer_fee": "Défenseur central",
+                "date": "30",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Mamadou Samassa",
+                "transfer_type": "600 K €",
+                "transfer_fee": "Avant-centre",
+                "date": "22",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Tyrone Mears",
+                "transfer_type": "Montant du prêt:200 K €",
+                "transfer_fee": "Arrière droit",
+                "date": "25",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Hilaire Muñoz",
+                "transfer_type": "120 K €",
+                "transfer_fee": "Gardien de but",
+                "date": "25",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Dmitriy Nepogodov",
+                "transfer_type": "-",
+                "transfer_fee": "Gardien de but",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Renato Civelli",
+                "transfer_type": "Fin du prêt30 juin 2008",
+                "transfer_fee": "Défenseur central",
+                "date": "24",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Salim Arrache",
+                "transfer_type": "Fin du prêt30 juin 2008",
+                "transfer_fee": "Ailier gauche",
+                "date": "25",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Garry Bocaly",
+                "transfer_type": "Fin du prêt30 juin 2008",
+                "transfer_fee": "Arrière droit",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Fabrice Begeorgi",
+                "transfer_type": "Fin du prêt5 janv. 2009",
+                "transfer_fee": "Arrière gauche",
+                "date": "21",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Medhi Benatia",
+                "transfer_type": "Fin du prêt30 juin 2008",
+                "transfer_fee": "Défenseur central",
+                "date": "21",
+                "club_from": "Club d'origine non trouvé"
+            }
+        ],
+        "2009": [
+            {
+                "player_name": "Lucho González",
+                "transfer_type": "19,00 mio. €",
+                "transfer_fee": "Milieu central",
+                "date": "28",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Souleymane Diawara",
+                "transfer_type": "6,50 mio. €",
+                "transfer_fee": "Défenseur central",
+                "date": "30",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Gabriel Heinze",
+                "transfer_type": "1,50 mio. €",
+                "transfer_fee": "Défenseur central",
+                "date": "31",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Andrade",
+                "transfer_type": "200 K €",
+                "transfer_fee": "Gardien de but",
+                "date": "30",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Fernando Morientes",
+                "transfer_type": "Tr. libre",
+                "transfer_fee": "Avant-centre",
+                "date": "33",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Cédric D'Ulivo",
+                "transfer_type": "-",
+                "transfer_fee": "Arrière droit",
+                "date": "19",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Alexander N'Doumbou",
+                "transfer_type": "-",
+                "transfer_fee": "Milieu défensif",
+                "date": "17",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Djibril Cissé",
+                "transfer_type": "Fin du prêt30 juin 2009",
+                "transfer_fee": "Avant-centre",
+                "date": "27",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Garry Bocaly",
+                "transfer_type": "Fin du prêt30 juin 2009",
+                "transfer_fee": "Arrière droit",
+                "date": "21",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "André Ayew",
+                "transfer_type": "Fin du prêt30 juin 2009",
+                "transfer_fee": "Ailier gauche",
+                "date": "19",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Jean-Philippe Sabo",
+                "transfer_type": "Fin du prêt30 juin 2009",
+                "transfer_fee": "Arrière gauche",
+                "date": "22",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Fabrice Begeorgi",
+                "transfer_type": "Fin du prêt30 juin 2009",
+                "transfer_fee": "Arrière gauche",
+                "date": "22",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Pape M'Bow",
+                "transfer_type": "Fin du prêt30 juin 2009",
+                "transfer_fee": "Défenseur central",
+                "date": "21",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Stéphane Mbia",
+                "transfer_type": "12,00 mio. €",
+                "transfer_fee": "Milieu défensif",
+                "date": "23",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Fabrice Abriel",
+                "transfer_type": "2,50 mio. €",
+                "transfer_fee": "Milieu central",
+                "date": "30",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Cyril Rool",
+                "transfer_type": "400 K €",
+                "transfer_fee": "Arrière gauche",
+                "date": "34",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Charley Fomen",
+                "transfer_type": "200 K €",
+                "transfer_fee": "Arrière gauche",
+                "date": "19",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Édouard Cissé",
+                "transfer_type": "Tr. libre",
+                "transfer_fee": "Milieu défensif",
+                "date": "31",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Kevin Osei",
+                "transfer_type": "-",
+                "transfer_fee": "Ailier droit",
+                "date": "18",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Jordan Ayew",
+                "transfer_type": "-",
+                "transfer_fee": "Avant-centre",
+                "date": "17",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Gaël Givet",
+                "transfer_type": "Fin du prêt30 juin 2009",
+                "transfer_fee": "Défenseur central",
+                "date": "27",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Elliot Grandin",
+                "transfer_type": "Fin du prêt30 juin 2009",
+                "transfer_fee": "Milieu offensif",
+                "date": "21",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Salim Arrache",
+                "transfer_type": "Fin du prêt30 juin 2009",
+                "transfer_fee": "Ailier gauche",
+                "date": "26",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Thomas Deruda",
+                "transfer_type": "Fin du prêt30 juin 2009",
+                "transfer_fee": "Milieu central",
+                "date": "22",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Milos Krstic",
+                "transfer_type": "Fin du prêt30 juin 2009",
+                "transfer_fee": "Milieu offensif",
+                "date": "22",
+                "club_from": "Club d'origine non trouvé"
+            }
+        ],
+        "2010": [
+            {
+                "player_name": "André-Pierre Gignac",
+                "transfer_type": "16,00 mio. €",
+                "transfer_fee": "Avant-centre",
+                "date": "24",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "César Azpilicueta",
+                "transfer_type": "6,00 mio. €",
+                "transfer_fee": "Défenseur central",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Jules Goda",
+                "transfer_type": "-",
+                "transfer_fee": "Gardien de but",
+                "date": "21",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Hatem Ben Arfa",
+                "transfer_type": "Fin du prêt31 déc. 2010",
+                "transfer_fee": "Milieu offensif",
+                "date": "23",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Garry Bocaly",
+                "transfer_type": "Fin du prêt30 juin 2010",
+                "transfer_fee": "Arrière droit",
+                "date": "22",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Jean-Philippe Sabo",
+                "transfer_type": "Fin du prêt30 juin 2010",
+                "transfer_fee": "Arrière gauche",
+                "date": "23",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Pape M'Bow",
+                "transfer_type": "Fin du prêt31 déc. 2010",
+                "transfer_fee": "Défenseur central",
+                "date": "22",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Cédric D'Ulivo",
+                "transfer_type": "Fin du prêt1 déc. 2010",
+                "transfer_fee": "Arrière droit",
+                "date": "21",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Loïc Rémy",
+                "transfer_type": "15,50 mio. €",
+                "transfer_fee": "Avant-centre",
+                "date": "23",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Rod Fanni",
+                "transfer_type": "4,00 mio. €",
+                "transfer_fee": "Arrière droit",
+                "date": "29",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Senah Mango",
+                "transfer_type": "-",
+                "transfer_fee": "Défenseur central",
+                "date": "18",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Mamadou Samassa",
+                "transfer_type": "Fin du prêt30 juin 2010",
+                "transfer_fee": "Avant-centre",
+                "date": "24",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "André Ayew",
+                "transfer_type": "Fin du prêt30 juin 2010",
+                "transfer_fee": "Ailier gauche",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Leyti N'Diaye",
+                "transfer_type": "Fin du prêt30 juin 2010",
+                "transfer_fee": "Défenseur central",
+                "date": "24",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Mohamed Dennoun",
+                "transfer_type": "Fin du prêt30 juin 2010",
+                "transfer_fee": "Milieu offensif",
+                "date": "24",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Cédric D'Ulivo",
+                "transfer_type": "Fin du prêt30 juin 2010",
+                "transfer_fee": "Arrière droit",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            }
+        ],
+        "2011": [
+            {
+                "player_name": "Alou Diarra",
+                "transfer_type": "5,00 mio. €",
+                "transfer_fee": "Milieu défensif",
+                "date": "29",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Jérémy Morel",
+                "transfer_type": "2,50 mio. €",
+                "transfer_fee": "Arrière gauche",
+                "date": "27",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Gennaro Bracigliano",
+                "transfer_type": "Tr. libre",
+                "transfer_fee": "Gardien de but",
+                "date": "31",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Chris Gadi",
+                "transfer_type": "-",
+                "transfer_fee": "Ailier droit",
+                "date": "19",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Brandão",
+                "transfer_type": "Fin du prêt30 juin 2011",
+                "transfer_fee": "Avant-centre",
+                "date": "31",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Charley Fomen",
+                "transfer_type": "Fin du prêt30 juin 2011",
+                "transfer_fee": "Arrière gauche",
+                "date": "21",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Senah Mango",
+                "transfer_type": "Fin du prêt31 déc. 2011",
+                "transfer_fee": "Défenseur central",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Mohamed Dennoun",
+                "transfer_type": "Fin du prêt30 juin 2011",
+                "transfer_fee": "Milieu offensif",
+                "date": "25",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Nicolas N'Koulou",
+                "transfer_type": "3,50 mio. €",
+                "transfer_fee": "Défenseur central",
+                "date": "21",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Morgan Amalfitano",
+                "transfer_type": "Tr. libre",
+                "transfer_fee": "Milieu droit",
+                "date": "26",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Djimi Traoré",
+                "transfer_type": "Tr. libre",
+                "transfer_fee": "Défenseur central",
+                "date": "31",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Billel Omrani",
+                "transfer_type": "-",
+                "transfer_fee": "Avant-centre",
+                "date": "18",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Brandão",
+                "transfer_type": "Fin du prêt31 déc. 2011",
+                "transfer_fee": "Avant-centre",
+                "date": "31",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Pape M'Bow",
+                "transfer_type": "Fin du prêt30 juin 2011",
+                "transfer_fee": "Défenseur central",
+                "date": "23",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Kevin Osei",
+                "transfer_type": "Fin du prêt31 déc. 2011",
+                "transfer_fee": "Ailier droit",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            }
+        ],
+        "2012": [
+            {
+                "player_name": "Modou Sougou",
+                "transfer_type": "3,00 mio. €",
+                "transfer_fee": "Ailier droit",
+                "date": "28",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Alaixys Romao",
+                "transfer_type": "2,00 mio. €",
+                "transfer_fee": "Milieu défensif",
+                "date": "29",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Kassim Abdallah",
+                "transfer_type": "500 K €",
+                "transfer_fee": "Arrière droit",
+                "date": "25",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Florian Raspentino",
+                "transfer_type": "Tr. libre",
+                "transfer_fee": "Avant-centre",
+                "date": "23",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Najib Ammari",
+                "transfer_type": "-",
+                "transfer_fee": "Milieu offensif",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Leyti N'Diaye",
+                "transfer_type": "Fin du prêt30 juin 2012",
+                "transfer_fee": "Défenseur central",
+                "date": "26",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Alexander N'Doumbou",
+                "transfer_type": "Fin du prêt30 juin 2012",
+                "transfer_fee": "Milieu défensif",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Lucas Mendes",
+                "transfer_type": "2,30 mio. €",
+                "transfer_fee": "Défenseur central",
+                "date": "22",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Foued Kadir",
+                "transfer_type": "500 K €",
+                "transfer_fee": "Milieu offensif",
+                "date": "29",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Brice Samba",
+                "transfer_type": "400 K €",
+                "transfer_fee": "Gardien de but",
+                "date": "18",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Joey Barton",
+                "transfer_type": "Prêt",
+                "transfer_fee": "Milieu central",
+                "date": "29",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Rafidine Abdullah",
+                "transfer_type": "-",
+                "transfer_fee": "Milieu défensif",
+                "date": "18",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Pape M'Bow",
+                "transfer_type": "Fin du prêt30 juin 2012",
+                "transfer_fee": "Défenseur central",
+                "date": "24",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Najib Ammari",
+                "transfer_type": "Fin du prêt9 avr. 2013",
+                "transfer_fee": "Milieu offensif",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            }
+        ],
+        "2013": [
+            {
+                "player_name": "Florian Thauvin",
+                "transfer_type": "12,00 mio. €",
+                "transfer_fee": "Ailier droit",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Giannelli Imbula",
+                "transfer_type": "7,50 mio. €",
+                "transfer_fee": "Milieu défensif",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Mario Lemina",
+                "transfer_type": "4,00 mio. €",
+                "transfer_fee": "Milieu défensif",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Brice Dja Djedje",
+                "transfer_type": "700 K €",
+                "transfer_fee": "Milieu défensif",
+                "date": "23",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Laurent Abergel",
+                "transfer_type": "-",
+                "transfer_fee": "Milieu défensif",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Pape M'Bow",
+                "transfer_type": "Fin du prêt30 juin 2013",
+                "transfer_fee": "Défenseur central",
+                "date": "25",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Chris Gadi",
+                "transfer_type": "Fin du prêt30 juin 2013",
+                "transfer_fee": "Ailier droit",
+                "date": "21",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Dimitri Payet",
+                "transfer_type": "8,70 mio. €",
+                "transfer_fee": "Milieu offensif",
+                "date": "26",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Benjamin Mendy",
+                "transfer_type": "4,00 mio. €",
+                "transfer_fee": "Arrière gauche",
+                "date": "18",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Saber Khalifa",
+                "transfer_type": "2,50 mio. €",
+                "transfer_fee": "Avant-centre",
+                "date": "26",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Larry Azouni",
+                "transfer_type": "-",
+                "transfer_fee": "Milieu central",
+                "date": "19",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Florian Raspentino",
+                "transfer_type": "Fin du prêt30 juin 2013",
+                "transfer_fee": "Avant-centre",
+                "date": "24",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Senah Mango",
+                "transfer_type": "Fin du prêt30 juin 2013",
+                "transfer_fee": "Défenseur central",
+                "date": "21",
+                "club_from": "Club d'origine non trouvé"
+            }
+        ],
+        "2014": [
+            {
+                "player_name": "Michy Batshuayi",
+                "transfer_type": "6,00 mio. €",
+                "transfer_fee": "Avant-centre",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Romain Alessandrini",
+                "transfer_type": "5,00 mio. €",
+                "transfer_fee": "Ailier droit",
+                "date": "25",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Lucas Ocampos",
+                "transfer_type": "Prêt",
+                "transfer_fee": "Ailier gauche",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Julien Fabri",
+                "transfer_type": "-",
+                "transfer_fee": "Gardien de but",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Morgan Amalfitano",
+                "transfer_type": "Fin du prêt30 juin 2014",
+                "transfer_fee": "Milieu droit",
+                "date": "29",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Foued Kadir",
+                "transfer_type": "Fin du prêt30 juin 2014",
+                "transfer_fee": "Milieu offensif",
+                "date": "30",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Florian Raspentino",
+                "transfer_type": "Fin du prêt30 juin 2014",
+                "transfer_fee": "Avant-centre",
+                "date": "25",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Billel Omrani",
+                "transfer_type": "Fin du prêt30 juin 2014",
+                "transfer_fee": "Avant-centre",
+                "date": "21",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Matheus Dória",
+                "transfer_type": "5,00 mio. €",
+                "transfer_fee": "Défenseur central",
+                "date": "19",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Abdelaziz Barrada",
+                "transfer_type": "4,50 mio. €",
+                "transfer_fee": "Milieu offensif",
+                "date": "25",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Baptiste Aloé",
+                "transfer_type": "-",
+                "transfer_fee": "Défenseur central",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Maxime Lopez",
+                "transfer_type": "-",
+                "transfer_fee": "Milieu défensif",
+                "date": "16",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Jordan Ayew",
+                "transfer_type": "Fin du prêt30 juin 2014",
+                "transfer_fee": "Avant-centre",
+                "date": "22",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Modou Sougou",
+                "transfer_type": "Fin du prêt30 juin 2014",
+                "transfer_fee": "Ailier droit",
+                "date": "29",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Larry Azouni",
+                "transfer_type": "Fin du prêt30 juin 2014",
+                "transfer_fee": "Milieu central",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Senah Mango",
+                "transfer_type": "Fin du prêt30 juin 2014",
+                "transfer_fee": "Défenseur central",
+                "date": "22",
+                "club_from": "Club d'origine non trouvé"
+            }
+        ],
+        "2015": [
+            {
+                "player_name": "Lucas Ocampos",
+                "transfer_type": "7,50 mio. €",
+                "transfer_fee": "Ailier gauche",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Bouna Sarr",
+                "transfer_type": "2,00 mio. €",
+                "transfer_fee": "Arrière droit",
+                "date": "23",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Georges-Kevin N'Koudou",
+                "transfer_type": "1,50 mio. €",
+                "transfer_fee": "Ailier gauche",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Lucas Silva",
+                "transfer_type": "Montant du prêt:650 K €",
+                "transfer_fee": "Milieu défensif",
+                "date": "22",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Abou Diaby",
+                "transfer_type": "Tr. libre",
+                "transfer_fee": "Milieu central",
+                "date": "29",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Florian Thauvin",
+                "transfer_type": "Prêt",
+                "transfer_fee": "Ailier droit",
+                "date": "23",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Steven Fletcher",
+                "transfer_type": "Prêt",
+                "transfer_fee": "Avant-centre",
+                "date": "28",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Lassana Diarra",
+                "transfer_type": "-",
+                "transfer_fee": "Milieu défensif",
+                "date": "30",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Antoine Rabillard",
+                "transfer_type": "-",
+                "transfer_fee": "Avant-centre",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Bill Tuiloma",
+                "transfer_type": "-",
+                "transfer_fee": "Défenseur central",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Foued Kadir",
+                "transfer_type": "Fin du prêt30 juin 2015",
+                "transfer_fee": "Milieu offensif",
+                "date": "31",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Laurent Abergel",
+                "transfer_type": "Fin du prêt30 juin 2015",
+                "transfer_fee": "Milieu défensif",
+                "date": "22",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Karim Rekik",
+                "transfer_type": "5,00 mio. €",
+                "transfer_fee": "Défenseur central",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Rolando",
+                "transfer_type": "1,50 mio. €",
+                "transfer_fee": "Défenseur central",
+                "date": "30",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Mauricio Isla",
+                "transfer_type": "Montant du prêt:1,00 mio. €",
+                "transfer_fee": "Arrière droit",
+                "date": "27",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Rémy Cabella",
+                "transfer_type": "Montant du prêt:600 K €",
+                "transfer_fee": "Milieu offensif",
+                "date": "25",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Yohann Pelé",
+                "transfer_type": "Tr. libre",
+                "transfer_fee": "Gardien de but",
+                "date": "32",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Javier Manquillo",
+                "transfer_type": "Prêt",
+                "transfer_fee": "Arrière droit",
+                "date": "21",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Paolo De Ceglie",
+                "transfer_type": "Prêt",
+                "transfer_fee": "Arrière gauche",
+                "date": "28",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Stéphane Sparagna",
+                "transfer_type": "-",
+                "transfer_fee": "Défenseur central",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Gaël Andonian",
+                "transfer_type": "-",
+                "transfer_fee": "Défenseur central",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Matheus Dória",
+                "transfer_type": "Fin du prêt30 juin 2015",
+                "transfer_fee": "Défenseur central",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Modou Sougou",
+                "transfer_type": "Fin du prêt30 juin 2015",
+                "transfer_fee": "Ailier droit",
+                "date": "30",
+                "club_from": "Club d'origine non trouvé"
+            }
+        ],
+        "2016": [
+            {
+                "player_name": "Dimitri Payet",
+                "transfer_type": "29,30 mio. €",
+                "transfer_fee": "Milieu offensif",
+                "date": "29",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Rémy Cabella",
+                "transfer_type": "8,00 mio. €",
+                "transfer_fee": "Milieu offensif",
+                "date": "26",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Tomas Hubocan",
+                "transfer_type": "1,20 mio. €",
+                "transfer_fee": "Défenseur central",
+                "date": "30",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Henri Bedimo",
+                "transfer_type": "Tr. libre",
+                "transfer_fee": "Arrière gauche",
+                "date": "32",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Patrice Evra",
+                "transfer_type": "Tr. libre",
+                "transfer_fee": "Arrière gauche",
+                "date": "35",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Clinton N'Jie",
+                "transfer_type": "Prêt",
+                "transfer_fee": "Ailier droit",
+                "date": "23",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Bafétimbi Gomis",
+                "transfer_type": "Prêt",
+                "transfer_fee": "Avant-centre",
+                "date": "30",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Aaron Leya Iseka",
+                "transfer_type": "Prêt",
+                "transfer_fee": "Avant-centre",
+                "date": "18",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Frank Anguissa",
+                "transfer_type": "-",
+                "transfer_fee": "Milieu central",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Lucas Ocampos",
+                "transfer_type": "Fin du prêt29 janv. 2017",
+                "transfer_fee": "Ailier gauche",
+                "date": "22",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Matheus Dória",
+                "transfer_type": "Fin du prêt30 juin 2016",
+                "transfer_fee": "Défenseur central",
+                "date": "21",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Baptiste Aloé",
+                "transfer_type": "Fin du prêt30 juin 2016",
+                "transfer_fee": "Défenseur central",
+                "date": "22",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Gaël Andonian",
+                "transfer_type": "Fin du prêt30 juin 2016",
+                "transfer_fee": "Défenseur central",
+                "date": "21",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Morgan Sanson",
+                "transfer_type": "12,00 mio. €",
+                "transfer_fee": "Milieu central",
+                "date": "22",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Grégory Sertic",
+                "transfer_type": "1,50 mio. €",
+                "transfer_fee": "Milieu défensif",
+                "date": "27",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Saîf-Eddine Khaoui",
+                "transfer_type": "1,00 mio. €",
+                "transfer_fee": "Milieu offensif",
+                "date": "21",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Hiroki Sakai",
+                "transfer_type": "Tr. libre",
+                "transfer_fee": "Arrière droit",
+                "date": "26",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Rod Fanni",
+                "transfer_type": "Tr. libre",
+                "transfer_fee": "Arrière droit",
+                "date": "34",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Florian Thauvin",
+                "transfer_type": "Prêt",
+                "transfer_fee": "Ailier droit",
+                "date": "23",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "William Vainqueur",
+                "transfer_type": "Prêt",
+                "transfer_fee": "Milieu défensif",
+                "date": "27",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Zinédine Machach",
+                "transfer_type": "Prêt",
+                "transfer_fee": "Milieu offensif",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Florian Escales",
+                "transfer_type": "-",
+                "transfer_fee": "Gardien de but",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Mario Lemina",
+                "transfer_type": "Fin du prêt30 juin 2016",
+                "transfer_fee": "Milieu défensif",
+                "date": "22",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Saber Khalifa",
+                "transfer_type": "Fin du prêt30 juin 2016",
+                "transfer_fee": "Avant-centre",
+                "date": "29",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Brice Samba",
+                "transfer_type": "Fin du prêt30 juin 2016",
+                "transfer_fee": "Gardien de but",
+                "date": "22",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Bill Tuiloma",
+                "transfer_type": "Fin du prêt30 juin 2016",
+                "transfer_fee": "Défenseur central",
+                "date": "21",
+                "club_from": "Club d'origine non trouvé"
+            }
+        ],
+        "2017": [
+            {
+                "player_name": "Konstantinos Mitroglou",
+                "transfer_type": "15,00 mio. €",
+                "transfer_fee": "Avant-centre",
+                "date": "29",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Luiz Gustavo",
+                "transfer_type": "10,00 mio. €",
+                "transfer_fee": "Milieu défensif",
+                "date": "29",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Clinton N'Jie",
+                "transfer_type": "7,00 mio. €",
+                "transfer_fee": "Ailier droit",
+                "date": "23",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Steve Mandanda",
+                "transfer_type": "3,00 mio. €",
+                "transfer_fee": "Gardien de but",
+                "date": "32",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Aymen Abdennour",
+                "transfer_type": "Prêt",
+                "transfer_fee": "Défenseur central",
+                "date": "28",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Yusuf Sarı",
+                "transfer_type": "-",
+                "transfer_fee": "Ailier droit",
+                "date": "19",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Lucas Ocampos",
+                "transfer_type": "Fin du prêt30 juin 2017",
+                "transfer_fee": "Ailier gauche",
+                "date": "22",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Baptiste Aloé",
+                "transfer_type": "Fin du prêt30 juin 2017",
+                "transfer_fee": "Défenseur central",
+                "date": "23",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Gaël Andonian",
+                "transfer_type": "Fin du prêt30 juin 2017",
+                "transfer_fee": "Défenseur central",
+                "date": "22",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Florian Thauvin",
+                "transfer_type": "11,00 mio. €",
+                "transfer_fee": "Ailier droit",
+                "date": "24",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Valère Germain",
+                "transfer_type": "8,00 mio. €",
+                "transfer_fee": "Avant-centre",
+                "date": "27",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Adil Rami",
+                "transfer_type": "6,00 mio. €",
+                "transfer_fee": "Défenseur central",
+                "date": "31",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Jordan Amavi",
+                "transfer_type": "Montant du prêt:2,00 mio. €",
+                "transfer_fee": "Arrière gauche",
+                "date": "23",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Romain Cagnon",
+                "transfer_type": "-",
+                "transfer_fee": "Gardien de but",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Boubacar Kamara",
+                "transfer_type": "-",
+                "transfer_fee": "Milieu défensif",
+                "date": "17",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Stéphane Sparagna",
+                "transfer_type": "Fin du prêt30 juin 2017",
+                "transfer_fee": "Défenseur central",
+                "date": "22",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Julien Fabri",
+                "transfer_type": "Fin du prêt30 juin 2017",
+                "transfer_fee": "Gardien de but",
+                "date": "23",
+                "club_from": "Club d'origine non trouvé"
+            }
+        ],
+        "2018": [
+            {
+                "player_name": "Kevin Strootman",
+                "transfer_type": "25,00 mio. €",
+                "transfer_fee": "Milieu central",
+                "date": "28",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Nemanja Radonjić",
+                "transfer_type": "12,00 mio. €",
+                "transfer_fee": "Ailier gauche",
+                "date": "22",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Mario Balotelli",
+                "transfer_type": "Tr. libre",
+                "transfer_fee": "Avant-centre",
+                "date": "28",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Florian Chabrolle",
+                "transfer_type": "-",
+                "transfer_fee": "Milieu offensif",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Rémy Cabella",
+                "transfer_type": "Fin du prêt30 juin 2018",
+                "transfer_fee": "Milieu offensif",
+                "date": "28",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Matheus Dória",
+                "transfer_type": "Fin du prêt30 juin 2018",
+                "transfer_fee": "Défenseur central",
+                "date": "23",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Yusuf Sarı",
+                "transfer_type": "Fin du prêt10 janv. 2019",
+                "transfer_fee": "Ailier droit",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Duje Caleta-Car",
+                "transfer_type": "19,00 mio. €",
+                "transfer_fee": "Défenseur central",
+                "date": "21",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Jordan Amavi",
+                "transfer_type": "10,00 mio. €",
+                "transfer_fee": "Arrière gauche",
+                "date": "24",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Christopher Rocchia",
+                "transfer_type": "-",
+                "transfer_fee": "Arrière gauche",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Lucas Perrin",
+                "transfer_type": "-",
+                "transfer_fee": "Défenseur central",
+                "date": "19",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Saîf-Eddine Khaoui",
+                "transfer_type": "Fin du prêt30 juin 2018",
+                "transfer_fee": "Milieu offensif",
+                "date": "23",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Tomas Hubocan",
+                "transfer_type": "Fin du prêt30 juin 2018",
+                "transfer_fee": "Défenseur central",
+                "date": "32",
+                "club_from": "Club d'origine non trouvé"
+            }
+        ],
+        "2019": [
+            {
+                "player_name": "Darío Benedetto",
+                "transfer_type": "14,00 mio. €",
+                "transfer_fee": "Avant-centre",
+                "date": "29",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Álvaro González",
+                "transfer_type": "Prêt",
+                "transfer_fee": "Défenseur central",
+                "date": "29",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Ahmadou Dia",
+                "transfer_type": "-",
+                "transfer_fee": "Gardien de but",
+                "date": "19",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Simon Ngapandouetnbu",
+                "transfer_type": "-",
+                "transfer_fee": "Gardien de but",
+                "date": "16",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Grégory Sertic",
+                "transfer_type": "Fin du prêt30 juin 2019",
+                "transfer_fee": "Milieu défensif",
+                "date": "29",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Valentin Rongier",
+                "transfer_type": "13,00 mio. €",
+                "transfer_fee": "Milieu central",
+                "date": "24",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Mohamed Abdallah",
+                "transfer_type": "-",
+                "transfer_fee": "Arrière droit",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Marley Aké",
+                "transfer_type": "-",
+                "transfer_fee": "Ailier gauche",
+                "date": "18",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Saîf-Eddine Khaoui",
+                "transfer_type": "Fin du prêt30 juin 2019",
+                "transfer_fee": "Milieu offensif",
+                "date": "24",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Christopher Rocchia",
+                "transfer_type": "Fin du prêt30 juin 2019",
+                "transfer_fee": "Arrière gauche",
+                "date": "21",
+                "club_from": "Club d'origine non trouvé"
+            }
+        ],
+        "2020": [
+            {
+                "player_name": "Luis Henrique",
+                "transfer_type": "8,00 mio. €",
+                "transfer_fee": "Ailier gauche",
+                "date": "18",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Arkadiusz Milik",
+                "transfer_type": "Montant du prêt:3,93 mio. €",
+                "transfer_fee": "Avant-centre",
+                "date": "26",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Pol Lirola",
+                "transfer_type": "Montant du prêt:490 K €",
+                "transfer_fee": "Arrière droit",
+                "date": "23",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Yuto Nagatomo",
+                "transfer_type": "Tr. libre",
+                "transfer_fee": "Arrière gauche",
+                "date": "33",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Olivier Ntcham",
+                "transfer_type": "Prêt",
+                "transfer_fee": "Milieu offensif",
+                "date": "24",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Christopher Rocchia",
+                "transfer_type": "Fin du prêt30 juin 2020",
+                "transfer_fee": "Arrière gauche",
+                "date": "22",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Álvaro González",
+                "transfer_type": "4,00 mio. €",
+                "transfer_fee": "Défenseur central",
+                "date": "30",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Leonardo Balerdi",
+                "transfer_type": "Montant du prêt:1,00 mio. €",
+                "transfer_fee": "Défenseur central",
+                "date": "21",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Pape Gueye",
+                "transfer_type": "Tr. libre",
+                "transfer_fee": "Milieu défensif",
+                "date": "21",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Michaël Cuisance",
+                "transfer_type": "Prêt",
+                "transfer_fee": "Milieu central",
+                "date": "21",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Konstantinos Mitroglou",
+                "transfer_type": "Fin du prêt30 juin 2020",
+                "transfer_fee": "Avant-centre",
+                "date": "32",
+                "club_from": "Club d'origine non trouvé"
+            }
+        ],
+        "2021": [
+            {
+                "player_name": "Gerson",
+                "transfer_type": "20,50 mio. €",
+                "transfer_fee": "Milieu central",
+                "date": "24",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Leonardo Balerdi",
+                "transfer_type": "11,00 mio. €",
+                "transfer_fee": "Défenseur central",
+                "date": "22",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Konrad de la Fuente",
+                "transfer_type": "3,00 mio. €",
+                "transfer_fee": "Ailier gauche",
+                "date": "19",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Cengiz Ünder",
+                "transfer_type": "Montant du prêt:500 K €",
+                "transfer_fee": "Ailier droit",
+                "date": "23",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Bamba Dieng",
+                "transfer_type": "400 K €",
+                "transfer_fee": "Avant-centre",
+                "date": "21",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Sead Kolasinac",
+                "transfer_type": "Tr. libre",
+                "transfer_fee": "Défenseur central",
+                "date": "28",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "William Saliba",
+                "transfer_type": "Prêt",
+                "transfer_fee": "Défenseur central",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Oussama Targhalline",
+                "transfer_type": "-",
+                "transfer_fee": "Milieu central",
+                "date": "19",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Nemanja Radonjić",
+                "transfer_type": "Fin du prêt30 juin 2021",
+                "transfer_fee": "Ailier gauche",
+                "date": "25",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Darío Benedetto",
+                "transfer_type": "Fin du prêt20 janv. 2022",
+                "transfer_fee": "Avant-centre",
+                "date": "31",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Mohamed Abdallah",
+                "transfer_type": "Fin du prêt30 juin 2021",
+                "transfer_fee": "Arrière droit",
+                "date": "22",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Pol Lirola",
+                "transfer_type": "13,00 mio. €",
+                "transfer_fee": "Arrière droit",
+                "date": "24",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Luan Peres",
+                "transfer_type": "4,50 mio. €",
+                "transfer_fee": "Défenseur central",
+                "date": "26",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Pau López",
+                "transfer_type": "Montant du prêt:720 K €",
+                "transfer_fee": "Gardien de but",
+                "date": "26",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Samuel Gigot",
+                "transfer_type": "500 K €",
+                "transfer_fee": "Défenseur central",
+                "date": "28",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Cédric Bakambu",
+                "transfer_type": "Tr. libre",
+                "transfer_fee": "Avant-centre",
+                "date": "30",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Mattéo Guendouzi",
+                "transfer_type": "Prêt",
+                "transfer_fee": "Milieu central",
+                "date": "22",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Amine Harit",
+                "transfer_type": "Prêt",
+                "transfer_fee": "Milieu offensif",
+                "date": "24",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Maxime Lopez",
+                "transfer_type": "Fin du prêt30 juin 2021",
+                "transfer_fee": "Milieu défensif",
+                "date": "23",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Kevin Strootman",
+                "transfer_type": "Fin du prêt30 juin 2021",
+                "transfer_fee": "Milieu central",
+                "date": "31",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Ahmadou Dia",
+                "transfer_type": "Fin du prêt23 mars 2021",
+                "transfer_fee": "Gardien de but",
+                "date": "21",
+                "club_from": "Club d'origine non trouvé"
+            }
+        ],
+        "2022": [
+            {
+                "player_name": "Vitinha",
+                "transfer_type": "32,00 mio. €",
+                "transfer_fee": "Avant-centre",
+                "date": "22",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Pau López",
+                "transfer_type": "12,00 mio. €",
+                "transfer_fee": "Gardien de but",
+                "date": "27",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Mattéo Guendouzi",
+                "transfer_type": "11,00 mio. €",
+                "transfer_fee": "Milieu central",
+                "date": "23",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Arkadiusz Milik",
+                "transfer_type": "9,70 mio. €",
+                "transfer_fee": "Avant-centre",
+                "date": "28",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Jonathan Clauss",
+                "transfer_type": "7,50 mio. €",
+                "transfer_fee": "Arrière droit",
+                "date": "29",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Eric Bailly",
+                "transfer_type": "Montant du prêt:2,00 mio. €",
+                "transfer_fee": "Défenseur central",
+                "date": "28",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Alexis Sánchez",
+                "transfer_type": "Tr. libre",
+                "transfer_fee": "Avant-centre",
+                "date": "33",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Ruslan Malinovskyi",
+                "transfer_type": "Prêt",
+                "transfer_fee": "Milieu offensif",
+                "date": "29",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Amine Harit",
+                "transfer_type": "Prêt",
+                "transfer_fee": "Milieu offensif",
+                "date": "25",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Rubén Blanco",
+                "transfer_type": "Prêt",
+                "transfer_fee": "Gardien de but",
+                "date": "26",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Samuel Gigot",
+                "transfer_type": "Fin du prêt30 juin 2022",
+                "transfer_fee": "Défenseur central",
+                "date": "28",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Lucas Perrin",
+                "transfer_type": "Fin du prêt30 juin 2022",
+                "transfer_fee": "Défenseur central",
+                "date": "23",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Kevin Strootman",
+                "transfer_type": "Fin du prêt30 juin 2022",
+                "transfer_fee": "Milieu central",
+                "date": "32",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Jordan Veretout",
+                "transfer_type": "12,45 mio. €",
+                "transfer_fee": "Milieu central",
+                "date": "29",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Cengiz Ünder",
+                "transfer_type": "11,40 mio. €",
+                "transfer_fee": "Ailier droit",
+                "date": "24",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Luis Suárez",
+                "transfer_type": "10,00 mio. €",
+                "transfer_fee": "Avant-centre",
+                "date": "24",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Azzedine Ounahi",
+                "transfer_type": "8,00 mio. €",
+                "transfer_fee": "Milieu central",
+                "date": "22",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Isaak Touré",
+                "transfer_type": "5,50 mio. €",
+                "transfer_fee": "Défenseur central",
+                "date": "19",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Chancel Mbemba",
+                "transfer_type": "Tr. libre",
+                "transfer_fee": "Défenseur central",
+                "date": "27",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Bartuğ Elmaz",
+                "transfer_type": "Tr. libre",
+                "transfer_fee": "Milieu défensif",
+                "date": "19",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Nuno Tavares",
+                "transfer_type": "Prêt",
+                "transfer_fee": "Arrière gauche",
+                "date": "22",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Issa Kaboré",
+                "transfer_type": "Prêt",
+                "transfer_fee": "Arrière droit",
+                "date": "21",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Salim Ben Seghir",
+                "transfer_type": "-",
+                "transfer_fee": "Ailier gauche",
+                "date": "19",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Jordan Amavi",
+                "transfer_type": "Fin du prêt30 juin 2022",
+                "transfer_fee": "Arrière gauche",
+                "date": "28",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Nemanja Radonjić",
+                "transfer_type": "Fin du prêt30 juin 2022",
+                "transfer_fee": "Ailier gauche",
+                "date": "26",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Oussama Targhalline",
+                "transfer_type": "Fin du prêt15 déc. 2022",
+                "transfer_fee": "Milieu central",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            }
+        ],
+        "2023": [
+            {
+                "player_name": "Renan Lodi",
+                "transfer_type": "20,60 mio. €",
+                "transfer_fee": "Arrière gauche",
+                "date": "25",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Ismaïla Sarr",
+                "transfer_type": "13,00 mio. €",
+                "transfer_fee": "Ailier droit",
+                "date": "25",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Quentin Merlin",
+                "transfer_type": "10,00 mio. €",
+                "transfer_fee": "Arrière gauche",
+                "date": "21",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Faris Moumbagna",
+                "transfer_type": "8,00 mio. €",
+                "transfer_fee": "Avant-centre",
+                "date": "23",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Ulisses Garcia",
+                "transfer_type": "4,00 mio. €",
+                "transfer_fee": "Arrière gauche",
+                "date": "28",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Joaquín Correa",
+                "transfer_type": "Montant du prêt:2,00 mio. €",
+                "transfer_fee": "Deuxième attaquant",
+                "date": "29",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Bamo Meïté",
+                "transfer_type": "Montant du prêt:1,00 mio. €",
+                "transfer_fee": "Défenseur central",
+                "date": "21",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Jean Onana",
+                "transfer_type": "Prêt",
+                "transfer_fee": "Milieu défensif",
+                "date": "24",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Bilal Nadir",
+                "transfer_type": "-",
+                "transfer_fee": "Milieu central",
+                "date": "19",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Ruslan Malinovskyi",
+                "transfer_type": "Fin du prêt30 janv. 2024",
+                "transfer_fee": "Milieu offensif",
+                "date": "30",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Arkadiusz Milik",
+                "transfer_type": "Fin du prêt30 juin 2023",
+                "transfer_fee": "Avant-centre",
+                "date": "29",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Luis Henrique",
+                "transfer_type": "Fin du prêt31 déc. 2023",
+                "transfer_fee": "Ailier gauche",
+                "date": "22",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Nemanja Radonjić",
+                "transfer_type": "Fin du prêt30 juin 2023",
+                "transfer_fee": "Ailier gauche",
+                "date": "27",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Jordan Amavi",
+                "transfer_type": "Fin du prêt30 juin 2023",
+                "transfer_fee": "Arrière gauche",
+                "date": "29",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Kevin Strootman",
+                "transfer_type": "Fin du prêt30 juin 2023",
+                "transfer_fee": "Milieu central",
+                "date": "33",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Iliman Ndiaye",
+                "transfer_type": "17,00 mio. €",
+                "transfer_fee": "Avant-centre",
+                "date": "23",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Ruslan Malinovskyi",
+                "transfer_type": "10,00 mio. €",
+                "transfer_fee": "Milieu offensif",
+                "date": "30",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Geoffrey Kondogbia",
+                "transfer_type": "8,00 mio. €",
+                "transfer_fee": "Milieu défensif",
+                "date": "30",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Amine Harit",
+                "transfer_type": "5,00 mio. €",
+                "transfer_fee": "Milieu offensif",
+                "date": "26",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Amir Murillo",
+                "transfer_type": "2,50 mio. €",
+                "transfer_fee": "Arrière droit",
+                "date": "27",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Rubén Blanco",
+                "transfer_type": "1,50 mio. €",
+                "transfer_fee": "Gardien de but",
+                "date": "28",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Pierre-Emerick Aubameyang",
+                "transfer_type": "Tr. libre",
+                "transfer_fee": "Avant-centre",
+                "date": "34",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "François Mughe",
+                "transfer_type": "-",
+                "transfer_fee": "Ailier droit",
+                "date": "19",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Emran Soglo",
+                "transfer_type": "-",
+                "transfer_fee": "Arrière gauche",
+                "date": "17",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Pape Gueye",
+                "transfer_type": "Fin du prêt30 juin 2023",
+                "transfer_fee": "Milieu défensif",
+                "date": "24",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Luis Suárez",
+                "transfer_type": "Fin du prêt30 juin 2023",
+                "transfer_fee": "Avant-centre",
+                "date": "25",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Isaak Touré",
+                "transfer_type": "Fin du prêt30 juin 2023",
+                "transfer_fee": "Défenseur central",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Konrad de la Fuente",
+                "transfer_type": "Fin du prêt30 juin 2023",
+                "transfer_fee": "Ailier gauche",
+                "date": "21",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Pol Lirola",
+                "transfer_type": "Fin du prêt30 juin 2023",
+                "transfer_fee": "Arrière droit",
+                "date": "25",
+                "club_from": "Club d'origine non trouvé"
+            },
+            {
+                "player_name": "Salim Ben Seghir",
+                "transfer_type": "Fin du prêt30 juin 2023",
+                "transfer_fee": "Ailier gauche",
+                "date": "20",
+                "club_from": "Club d'origine non trouvé"
+            }
+        ]
+    }
+}
